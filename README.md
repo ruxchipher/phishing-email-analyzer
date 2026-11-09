@@ -6,7 +6,7 @@ with a SHA-256, and a list of red flags. It works entirely offline, so it is
 safe to run on a suspicious message without touching anything.
 
 Part of the detection work around my
-[purple-team-journey](https://github.com/Siddique-12300983/purple-team-journey)
+[purple-team-journey](https://github.com/ruxchipher/purple-team-journey)
 lab.
 
 ## Why it matters
@@ -47,7 +47,7 @@ That keeps it safe to run on live phishing samples.
 Python 3.9 or newer, standard library only.
 
 ```bash
-git clone https://github.com/Siddique-12300983/phishing-email-analyzer.git
+git clone https://github.com/ruxchipher/phishing-email-analyzer.git
 cd phishing-email-analyzer
 ```
 
